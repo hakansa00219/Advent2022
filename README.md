@@ -1,2 +1,2 @@
 # Advent2022
-Advent of Code 2022 Challanges.
+Advent of Code 2022 Challenges.
