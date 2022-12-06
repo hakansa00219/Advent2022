@@ -1,0 +1,15 @@
+C:\Users\66996\OneDrive\Desktop\Advent\Challange01\bin\Debug\net6.0\Challange01.exe
+C:\Users\66996\OneDrive\Desktop\Advent\Challange01\bin\Debug\net6.0\Challange01.deps.json
+C:\Users\66996\OneDrive\Desktop\Advent\Challange01\bin\Debug\net6.0\Challange01.runtimeconfig.json
+C:\Users\66996\OneDrive\Desktop\Advent\Challange01\bin\Debug\net6.0\Challange01.dll
+C:\Users\66996\OneDrive\Desktop\Advent\Challange01\bin\Debug\net6.0\Challange01.pdb
+C:\Users\66996\OneDrive\Desktop\Advent\Challange01\obj\Debug\net6.0\Challange01.csproj.AssemblyReference.cache
+C:\Users\66996\OneDrive\Desktop\Advent\Challange01\obj\Debug\net6.0\Challange01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\66996\OneDrive\Desktop\Advent\Challange01\obj\Debug\net6.0\Challange01.AssemblyInfoInputs.cache
+C:\Users\66996\OneDrive\Desktop\Advent\Challange01\obj\Debug\net6.0\Challange01.AssemblyInfo.cs
+C:\Users\66996\OneDrive\Desktop\Advent\Challange01\obj\Debug\net6.0\Challange01.csproj.CoreCompileInputs.cache
+C:\Users\66996\OneDrive\Desktop\Advent\Challange01\obj\Debug\net6.0\Challange01.dll
+C:\Users\66996\OneDrive\Desktop\Advent\Challange01\obj\Debug\net6.0\refint\Challange01.dll
+C:\Users\66996\OneDrive\Desktop\Advent\Challange01\obj\Debug\net6.0\Challange01.pdb
+C:\Users\66996\OneDrive\Desktop\Advent\Challange01\obj\Debug\net6.0\Challange01.genruntimeconfig.cache
+C:\Users\66996\OneDrive\Desktop\Advent\Challange01\obj\Debug\net6.0\ref\Challange01.dll
