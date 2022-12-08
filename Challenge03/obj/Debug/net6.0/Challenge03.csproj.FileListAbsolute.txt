@@ -1,0 +1,15 @@
+C:\Users\66996\OneDrive\Desktop\Advent2022\Challenge03\bin\Debug\net6.0\Challenge03.exe
+C:\Users\66996\OneDrive\Desktop\Advent2022\Challenge03\bin\Debug\net6.0\Challenge03.deps.json
+C:\Users\66996\OneDrive\Desktop\Advent2022\Challenge03\bin\Debug\net6.0\Challenge03.runtimeconfig.json
+C:\Users\66996\OneDrive\Desktop\Advent2022\Challenge03\bin\Debug\net6.0\Challenge03.dll
+C:\Users\66996\OneDrive\Desktop\Advent2022\Challenge03\bin\Debug\net6.0\Challenge03.pdb
+C:\Users\66996\OneDrive\Desktop\Advent2022\Challenge03\obj\Debug\net6.0\Challenge03.csproj.AssemblyReference.cache
+C:\Users\66996\OneDrive\Desktop\Advent2022\Challenge03\obj\Debug\net6.0\Challenge03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\66996\OneDrive\Desktop\Advent2022\Challenge03\obj\Debug\net6.0\Challenge03.AssemblyInfoInputs.cache
+C:\Users\66996\OneDrive\Desktop\Advent2022\Challenge03\obj\Debug\net6.0\Challenge03.AssemblyInfo.cs
+C:\Users\66996\OneDrive\Desktop\Advent2022\Challenge03\obj\Debug\net6.0\Challenge03.csproj.CoreCompileInputs.cache
+C:\Users\66996\OneDrive\Desktop\Advent2022\Challenge03\obj\Debug\net6.0\Challenge03.dll
+C:\Users\66996\OneDrive\Desktop\Advent2022\Challenge03\obj\Debug\net6.0\refint\Challenge03.dll
+C:\Users\66996\OneDrive\Desktop\Advent2022\Challenge03\obj\Debug\net6.0\Challenge03.pdb
+C:\Users\66996\OneDrive\Desktop\Advent2022\Challenge03\obj\Debug\net6.0\Challenge03.genruntimeconfig.cache
+C:\Users\66996\OneDrive\Desktop\Advent2022\Challenge03\obj\Debug\net6.0\ref\Challenge03.dll
